@@ -1,9 +1,11 @@
 # WikiMidas
 
+```
 Version: v0.1
 Author: Lei Mao
 Updated: 8/9/2017
 Institution: Deparment of Computer Science, The University of Chicago
+```
 
 ## Description
 
