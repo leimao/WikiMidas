@@ -58,4 +58,4 @@ python wikimidas.py -r "Michael Jordan"
 
 ## Disclaimer
 
-I am truely a newbee of data crawling. I learned a lot from the WikiAPI program at https://github.com/richardasaurus/wiki-api, and used some of the codes for this program.
+I am truely a newbee of data crawling. I learned a lot from the WikiAPI program at https://github.com/richardasaurus/wiki-api, and used some of the codes for my program.
