@@ -44,6 +44,18 @@ print article.summary
 print article.content
 ```
 
+The Python script could also be run directly in the shell:
+
+To search article
+```shell
+python wikimidas.py -s "Michael Jordan"
+```
+
+To retrieve article
+```shell
+python wikimidas.py -r "Michael Jordan"
+```
+
 ## Disclaimer
 
 I am truely a newbee of data crawling. I learned a lot from the WikiAPI program at https://github.com/richardasaurus/wiki-api, and used some of the codes for this program.

@@ -12,7 +12,6 @@ Institution: Deparment of Computer Science, The University of Chicago
 
 WikiMidas is a Python spidering API wrapper program specifically designed for data crawling from MediaWiki APIs (https://www.mediawiki.org/). It could be used to retrieve information from Wikipedia API (https://en.wikipedia.org/w/api.php) and MoeGirl API (https://zh.moegirl.org/api.php) which uses MediaWiki as their APIs. The page content format of MoeGirl is a little bit different to Wikipedia's. The code optimization is still undergoing.
 
-
 ## Installation Dependencies
 
 io
@@ -45,6 +44,19 @@ print article.summary
 print article.content
 ```
 
+The Python script could also be run directly in the shell:
+
+To search article
+```shell
+python wikimidas.py -s "Michael Jordan"
+```
+
+To retrieve article
+```shell
+python wikimidas.py -r "Michael Jordan"
+```
 
 
-Disclaimer: I am truely a newbee of data crawling. I learned a lot from the WikiAPI program at https://github.com/richardasaurus/wiki-api, and used some of the codes for this program.
+## Disclaimer
+
+I am truely a newbee of data crawling. I learned a lot from the WikiAPI program at https://github.com/richardasaurus/wiki-api, and used some of the codes for this program.
