@@ -1,7 +1,7 @@
 # WikiMidas
 
 ```
-Version: v0.1
+Version: 0.1
 Author: Lei Mao
 Updated: 8/9/2017
 Institution: The University of Chicago
@@ -17,12 +17,10 @@ Search and retrieve for articles from Wikipedia.
 
 ## Dependencies
 
-```python
-io
-re
-bs4
-requests
-```
+* io
+* re
+* bs4
+* requests
 
 ## Usage
 
