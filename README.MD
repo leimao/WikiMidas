@@ -17,10 +17,10 @@ Search and retrieve for articles from Wikipedia.
 
 ## Dependencies
 
-* io
-* re
-* bs4
-* requests
+* re (https://pythonhosted.org/pyquery/)
+* bs4 (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* requests (http://docs.python-requests.org/en/master/)
+* pyquery (https://docs.python.org/2/library/re.html)
 
 ## Usage
 

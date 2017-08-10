@@ -16,7 +16,6 @@ Notes:
 2. A useful MediaWiki content parsing instruction: https://stackoverflow.com/questions/4452102/how-to-get-plain-text-out-of-wikipedia
 '''
 
-import io
 import re
 import argparse
 from bs4 import BeautifulSoup
