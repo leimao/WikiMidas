@@ -5,7 +5,7 @@ WikiMidas
 Version: 0.1
 Author: Lei Mao
 Updated: 8/9/2017
-Institution: Deparment of Computer Science, The University of Chicago
+Institution: The University of Chicago
 Description: The WikiMidas is a spidering program specifically designed for data crawling from MediaWiki APIs (https://www.mediawiki.org/). It could be used to retrieve information from Wikipedia API (https://en.wikipedia.org/w/api.php) and MoeGirl API (https://zh.moegirl.org/api.php) which uses MediaWiki as their APIs.
 Disclaimer: I am truely a newbee of data crawling. I learned a lot from the WikiAPI program at https://github.com/richardasaurus/wiki-api, and used some of the codes for this program.
 '''
